@@ -1,2 +1,4 @@
 App ID: 653c45fd-cca8-4f3e-8347-10996b6789ee
 Secret: Z3Y8Q~42rN4RuOy94qBANFD~LAU2jXsOadZqhasL
+"AadTenantDomain": "Henkelgroup.onmicrosoft.com",
+"AadTenantId": "e8701075-0d9e-4ea1-991d-5a0d110a5d29"
